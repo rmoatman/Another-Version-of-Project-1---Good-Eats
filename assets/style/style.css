@@ -1,0 +1,95 @@
+:root {
+	--blue: rgba(13, 147, 209, 0.897);
+}
+
+#pageContainer {
+	position: relative;
+	min-height: 100vh;
+}
+
+.mainWidth {
+	width: 100%;
+	height: 75%;
+	padding-bottom: 1.5rem;
+}
+
+.mainLeftSide {
+	height: 100%;
+}
+
+.topPadding {
+	padding-top: 15px;
+}
+
+.responsive-embed {
+	display: flex;
+	justify-content: center;
+}
+
+.borderControl {
+	border: 2px var(--blue) solid;
+	padding: 3px;
+}
+
+.buttonColor {
+	background-color: var(--blue);
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;
+}
+
+#zipinput {
+	display: none;
+}
+
+#ziptxt {
+	display: none;
+}
+#zipbtn {
+	display: none;
+}
+p.nobottommargin {
+	margin-bottom: 0 !important;
+}
+
+.rName {
+	background-color: rgba(210, 214, 216, 0.897) !important;
+}
+
+.recipeTable {
+	width: 100% !important;
+}
+
+#moreRest {
+	display: none;
+}
+
+.hide {
+	display: none;
+}
+
+.recipemodal {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.modal-image {
+	max-width: 40%;
+	height: auto;
+}
+
+/* Styles the Search and Favorites Button */
+button.navbutton {
+	margin-left: 15px;
+	width: 20%;
+}
+
+/* Styles the recipe buttons on the Favorites page */
+button.favbutton1 {
+	width: 100%;
+	background-color: var(--blue);
+}
