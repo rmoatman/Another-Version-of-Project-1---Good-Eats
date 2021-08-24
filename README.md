@@ -6,15 +6,15 @@ Motivation for this project came from Raemarie's daughter who has many dietary r
 
 ## Deployed link
 
-    https://nicholas-herold.github.io/Project-1-Website/
+    https://rmoatman.github.io/Another-Version-of-Project-1---Good-Eats/
 
 ## Installation
 
     Option 1: Access the site by utilizing the GitHub pages link provided
 
-    Option 2: Get files from the GitHub Repository
+    Option 2: Clone files from the GitHub Repository
     1) Initiate the local repository on your device:
-        In terminal: navigate to the designated directory on your device.  Then use the command 'git init'
+        In terminal: navigate to the designated directory on your device.  Then use the command 'git clone'
 
     2) Clone main branch to your device
         In terminal: issue the command '$ git clone repositoryHTTPSlinkcopied'
